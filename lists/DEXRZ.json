@@ -59,7 +59,7 @@
       "logoURI": "https://pancakeswap.finance/images/tokens/0x55d398326f99059fF775485246999027B3197955.png"
     },
     {
-      "name": "PancakeSwap Token",
+      "name": "PancakeSwap",
       "symbol": "CAKE",
       "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
       "chainId": 56,
@@ -91,7 +91,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x0Eb3a705fc54725037CC9e008bDede697f62F335.png"
     },
 	   {
-      "name": "Axie Infinity Shard",
+      "name": "Axie Infinity",
       "symbol": "AXS",
       "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
       "chainId": 56,
@@ -105,16 +105,9 @@
       "chainId": 56,
       "decimals": 8,
       "logoURI": "https://tokens.pancakeswap.finance/images/0xbA2aE424d960c26247Dd6c32edC70B295c744C43.png"
-    }, {
-      "name": "FLOKI",
-      "symbol": "FLOKI",
-      "address": "0x2B3F34e9D4b127797CE6244Ea341a83733ddd6E4",
-      "chainId": 56,
-      "decimals": 9,
-      "logoURI": "https://assets-cdn.trustwallet.com/blockchains/smartchain/assets/0x2B3F34e9D4b127797CE6244Ea341a83733ddd6E4/logo.png"
     },
 	   {
-      "name": "IoTeX Network",
+      "name": "IoTeX",
       "symbol": "IOTX",
       "address": "0x9678E42ceBEb63F23197D726B29b1CB20d0064E5",
       "chainId": 56,
@@ -122,7 +115,7 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x9678E42ceBEb63F23197D726B29b1CB20d0064E5.png"
     },
 	  {
-      "name": "ChainLink Token",
+      "name": "ChainLink",
       "symbol": "LINK",
       "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
       "chainId": 56,
